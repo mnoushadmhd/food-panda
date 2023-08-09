@@ -1,0 +1,5 @@
+@media only screen and (max-width:767px){
+    .react-confirm-alert-body{
+        width: 300px !important;
+    }
+}

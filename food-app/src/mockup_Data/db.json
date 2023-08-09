@@ -1,0 +1,107 @@
+{
+  "nonveg": [
+    {
+      "itemname": "chicken Biryani",
+      "price": 200,
+      "foodtype": "nonveg",
+      "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/nqpde327hafz9p5szakh",
+      "id": "1nv",
+      "nos":0
+    },
+    {
+      "itemname": "chicken Fry",
+      "price": 280,
+      "foodtype": "nonveg",
+      "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/ohp6sa33lrj2obgjbzh5",
+      "id": "2nv",
+      "nos":0
+    },
+    {
+      "itemname": "chicken Combo",
+      "price": 999,
+      "foodtype": "nonveg",
+      "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/3d7742d07f82b72341e0b8051eb6b3dd",
+      "id": "3nv",
+      "nos":0
+    },
+    {
+      "itemname": "Lamb Biriyani",
+      "price": 350,
+      "foodtype": "nonveg",
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/qbxdphjas8iytmsosjwj",
+      "description": "Make this classic Indian dish and ensure deliciously moist lamb with paneer, rice and spinach, all spiced to perfection. Great for casual entertaining",
+      "id": "4nv",
+      "nos":0
+    },
+    {
+      "itemname": "Alfredo Pasta",
+      "foodtype": "nonveg",
+      "price": 250,
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/tvdehcbq7y7alf2uwkzk",
+      "description": "\nAlfredo is a creamy, dreamy pan sauce made from butter and Parmigiano-Reggiano cheese. There are a few additions and adaptations that exist.",
+      "id": "5nv",
+      "nos":0
+    }
+  ],
+  "veg": [
+    {
+      "itemname": "Cheesy Garlic Bread",
+      "price": 250,
+      "foodtype": "veg",
+      "description": "[3 Pcs] Garlic bread baked to perfection with cheese.",
+      "image": "https://images.pexels.com/photos/13062441/pexels-photo-13062441.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "id": "1v",
+      "nos":0
+    },
+    {
+      "itemname": "Peri Peri Paneer Pizza",
+      "price": 365,
+      "foodtype": "veg",
+      "description": "Soft and tender paneer chunks marinated in peri peri marination over a pizza base with bell peppers and onions.",
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/978447af43716c55bcea4a8e397ce5e6",
+      "id": "2v",
+      "nos":0
+    },
+    {
+      "itemname": "Pasta Fusion Veg",
+      "price": 156,
+      "foodtype": "veg",
+      "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "image": "https://www.forkknifeswoon.com/wp-content/uploads/2016/04/easy-spring-vegetable-pasta-goat-cheese-asparagus-peas-lemon-fork-knife-swoon-01.jpg",
+      "id": "3v",
+      "nos":0
+    }
+  ],
+  "softdrinks": [
+    {
+      "itemname": "Yellow Vodka",
+      "price": 200,
+      "foodtype": "softdrinks",
+      "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "image": "https://images.pexels.com/photos/4958907/pexels-photo-4958907.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "id": "1sd",
+      "nos":0
+    },
+    {
+      "itemname": "Plain Vodka",
+      "price": 224,
+      "foodtype": "softdrinks",
+      "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "image": "https://images.pexels.com/photos/4279096/pexels-photo-4279096.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "id": "2sd",
+      "nos":0
+    },
+    {
+      "itemname": "Takila",
+      "price": 569,
+      "foodtype": "softdrinks",
+      "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "image": "https://images.pexels.com/photos/858466/pexels-photo-858466.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "id": "3sd",
+      "nos":0
+    }
+  ]
+}
